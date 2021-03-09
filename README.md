@@ -1,1 +1,1 @@
-# led_matrix
+# led_strip arduino project
